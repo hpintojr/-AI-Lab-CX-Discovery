@@ -1,57 +1,166 @@
 # Recording Script · Mercury CRM Synthetic Research & CX Discovery (AI Lab 03)
 
-**Target runtime:** 3 min 50 s – 4 min 20 s · Spoken in Hamilton Pinto Jr.'s own voice.
+## 0:00-0:40 · The business decision
 
----
+Screen cue: Open the Decision tab on the dashboard.
 
-## 0:00–0:40 · The business decision
-> **[SCREEN CUE]:** Open the **Decision** tab on the dashboard.
+Hey everyone. Hamilton here.
 
-"Hey everyone, Hamilton here. For this AI Lab, I applied synthetic user research to a real business move I am making right now: rebranding my company from Mercury Call Desk into Mercury CRM.
+I am rebranding my company.\
+Mercury Call Desk is now Mercury CRM.
 
-We built an all-in-one customer CRM and 24/7 AI voice receptionist. Before spending money on paid ads, I needed to answer two questions: First, which business customers actually have the highest urgency to buy? And second, how should we design our website offer so busy owners convert instead of getting overwhelmed?"
+We help businesses keep track of their customers\
+and follow up with new leads.
 
----
+We also built an AI receptionist.\
+It answers calls around the clock.
 
-## 0:40–1:30 · Building the skill & converging on obvious personas
-> **[SCREEN CUE]:** Switch to **Personas & scenarios**. Point to the `ux-persona-builder` skill card and Personas 1 and 2.
+Before I spent money on ads,\
+I wanted to answer two questions.
 
-"In Steps 1 and 2, I set up the reusable ux-persona-builder skill and fed it real market evidence: Reddit threads from business owners frustrated with competing CRMs like GoHighLevel, G2 competitor reviews, and MIT and RAND research showing why over half of business AI projects fail.
+Who feels the pain of a missed call the most?
 
-In Step 3, Converge, I asked the AI for our most obvious customer personas. First is Speed-to-Lead Sam, the busy inbound sales manager in mortgage, lending, and legal offices. If a warm lead calls at 7 PM and hits voicemail, they lose a $4,000 commission. Second is Field-Crew Carlos, the local home service owner in HVAC, solar, and roofing who misses calls on job sites and quits whenever software feels like homework."
+And what could I show them on our website\
+that would make them say, "I could use this"?
 
----
+For this AI Lab,\
+I used AI to build sample customer profiles from research\
+and see how those customers might respond to my offer.
 
-## 1:30–2:15 · Diverging for the hidden gem & checking evidence
-> **[SCREEN CUE]:** Scroll to **Agency Architect Alex** and the **Step 5 Scenarios Table**, then click **Brief & verification**.
+## 0:40-1:27 · Building the skill and finding our first customers
 
-"Next, in Step 4, Diverge, I pushed the AI to look past the obvious crowd for a hidden gem. That surfaced Agency Architect Alex: business consultants and small agencies who set up software for their own clients. They are a smaller group and easy to overlook, but each consultant brings 5 to 20 client accounts at once if we give them one-click industry templates.
+Screen cue: Open Personas and scenarios. Point to the ux-persona-builder skill card and the first two customer profiles.
 
-In Step 6, running our Evidence Check also flagged a major budget trap: a huge wave of people searching online for AI tools are solo hobbyists looking for free software who never pay. Filtering them out protects our ad budget."
+In Steps 1 and 2,\
+I gave the AI customer reviews,\
+discussions from business owners,\
+and research on why companies struggle to put AI to work.
 
----
+I also gave it a set of instructions I could reuse.\
+I called it ux-persona-builder.
 
-## 2:15–3:05 · Walking the page & testing 40 synthetic buyers
-> **[SCREEN CUE]:** Open **Usability & 40-buyer panel**. Show the 80/20 friction stack-rank and the 65% drop-off bar chart.
+Its job was to build a customer profile\
+and show me the evidence it used.
 
-"In Part 2, I used those personas as AI co-pilots to test our signup flow. Walking the page as a busy sales manager and stack-ranking the problems with the 80/20 rule exposed our biggest mistake: right after signup, we asked for complicated phone carrier codes and handed them a blank box to write an AI script from scratch.
+In Step 3,\
+I asked it to start with the businesses\
+that feel this problem every day.
 
-After having the AI critique its own survey questions to remove leading bias, we simulated 40 business owners walking through that signup flow. 65% of them quit right on that empty setup screen. Handing a busy owner an empty software tool is like a doctor handing you pills without diagnosing your pain first—they get overwhelmed and leave."
+The first was Speed-to-Lead Sam.\
+He manages a busy sales team.\
+If a borrower calls at seven at night\
+and gets voicemail,\
+that could cost the team a deal.
 
----
+The second was Field-Crew Carlos.\
+He is out on job sites all day.\
+Every call he misses\
+could be his next booking.
 
-## 3:05–3:50 · Why Variant B won the split test
-> **[SCREEN CUE]:** Open **CRO split test & ideation**. Show Variant A vs. Variant B and the DVF Scorecard.
+## 1:27-2:19 · Step 4 — Finding the customer I almost missed
 
-"So in Step 9, we ran a split test between two front-end offers. Variant A pitched a standard 14-day free software trial. Variant B let the user type in their cell number for a live 60-second test call from our AI receptionist right on the spot, paired with a 5-day Revenue Diagnostic where we map out their missed calls for them.
+Screen cue: Scroll to Agency Architect Alex and the Step 5 Scenarios Table, then click Brief and verification.
 
-Our sales managers and home service owners overwhelmingly chose Variant B because it gives them instant proof on their phone and a clear roadmap, while agency consultants loved having ready-made templates. When I asked the AI to play devil's advocate in Step 11, it warned that spammers might abuse free test phone numbers—so we locked the live sandbox to incoming calls only for 15 minutes."
+In Step 4, I asked, "Who am I overlooking?"
 
----
+That is where Agency Architect Alex came in.\
+Alex runs a small agency.\
+He sets up software for other businesses.
 
-## 3:50–4:20 · Recommendation and deliverable
-> **[SCREEN CUE]:** Return to **Decision**. Show the 3 pilot steps and supporting downloads.
+A roofing company might use Mercury CRM for its own crew.\
+And Alex could bring it to five,\
+or even twenty businesses he already works with.
 
-"This lab completely reshaped our go-to-market plan for Mercury CRM. First, we replaced our blank setup screen with the 60-Second Live Call Sandbox so buyers experience the AI voice in under a minute.
+For that to work,\
+Alex needs a setup he can reuse.
 
-Second, instead of pitching just another tool, we are leading with a 5-Day Revenue Diagnostic for sales floors and home service teams, while launching a dedicated one-click template partner track for consultants and agencies. Thank you for watching."
+So I need to give him a ready-made setup\
+for a roofer or a mortgage office.\
+Then he can get the next client started\
+without building everything from scratch.
+
+From there,\
+I wrote down what each customer would try on day one\
+and checked those ideas against the research.
+
+The traffic data helped me decide where to spend our ad money, too.\
+People searching for free AI tools were browsing.\
+Very few were buying.
+
+## 2:19-3:02 · Testing the signup with 40 simulated buyers
+
+Screen cue: Open Usability and 40-buyer panel. Show the signup problems and the 65% drop-off chart.
+
+Next, I walked through our old signup\
+as if I were Sam.
+
+All I wanted was to hear the receptionist answer a call.
+
+Instead, the signup asked me for technical details\
+from my phone provider.\
+Then it gave me a blank box\
+and asked me to write what the receptionist should say.
+
+I could see why a busy owner would close the page.
+
+I also had the AI check my survey questions.\
+Were they nudging people toward a positive answer?
+
+Then I used AI to simulate 40 buyers trying the signup.\
+26 out of 40 quit during those two setup steps.\
+That is 65 percent.
+
+It gave me a specific problem\
+to check with real customers.
+
+## 3:02-3:50 · Comparing two offers
+
+Screen cue: Open CRO split test and ideation. Show the two offers and the Step 11 scorecard.
+
+I used the same customer profiles\
+to compare two offers.
+
+The first was a free 14-day trial\
+where the customer sets everything up alone.
+
+The second was a 60-second call\
+to hear the AI receptionist,\
+followed by a paid five-day review,\
+the Revenue Diagnostic.
+
+In that review,\
+we look at where calls get missed,\
+how long it takes to call people back,\
+and what to fix first.
+
+In the simulation,\
+the sales managers and the home service owners\
+leaned toward hearing the receptionist on their own phone.
+
+Alex wanted the demo\
+and a setup he could reuse across clients.
+
+I also asked what could go wrong.\
+One risk was people abusing the free calls.\
+So we limited the demo to one call per visitor,\
+with a verified phone number.
+
+## 3:50-4:20 · What I will test next
+
+Screen cue: Return to Decision. Show the pilot steps and point to Downloads.
+
+Here is what I want to test with real buyers.
+
+Sales teams and home service owners\
+hear the receptionist first.\
+Then we look at where calls get missed\
+and what that might be costing them.
+
+For agencies,\
+we give them a ready-made setup\
+they can use with more than one client.
+
+I will run a two-week test\
+to see which offer gets real buyers to take the next step.
+
+Thanks for watching.
